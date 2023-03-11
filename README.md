@@ -15,6 +15,3 @@ Sign up for [Infura](https://www.infura.io/?utm_source=cleverprogrammer&utm_medi
 - Solidity (v0.8.16)
 - Infura, as RPC Provider
 
----
-
-## Head over to [our YouTube channel](https://www.youtube.com/cleverprogrammer) to learn to become Blockchain Developer!
