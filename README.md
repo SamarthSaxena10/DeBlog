@@ -1,4 +1,3 @@
-# Build Dev.to Blog App with Next.js, Infura and Solidity
 
 ![Dev.to Blog App Clone](https://i.ibb.co/JR0Wg6q/Clean-Shot-2022-09-21-at-17-30-12.jpg)
 
